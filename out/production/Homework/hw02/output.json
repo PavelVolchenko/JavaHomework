@@ -1,0 +1,27 @@
+[
+ {
+  "score": "5",
+  "lastname": "Сидоров",
+  "discipline": "Информатика"
+ },
+ {
+  "score": "4",
+  "lastname": "Петров",
+  "discipline": "Математика"
+ },
+ {
+  "score": "4",
+  "lastname": "Денисов",
+  "discipline": "Физика"
+ },
+ {
+  "score": "3",
+  "lastname": "Петров",
+  "discipline": "Русский язык"
+ },
+ {
+  "score": "5",
+  "lastname": "Бугаев",
+  "discipline": "Физкультура"
+ }
+]
