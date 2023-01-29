@@ -12,7 +12,6 @@ public class task01 {
         }
         System.out.print("Input array: ");
         System.out.println(list);
-
         System.out.print("Output array: ");
         list.removeIf(integer -> integer % 2 == 0);
         System.out.println(list);

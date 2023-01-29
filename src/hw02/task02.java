@@ -49,7 +49,6 @@ public class task02 {
     }
     public static String[] parseJSON(String jsonString) {
         JSONArray jsObj = new JSONArray(jsonString);
-        // ЧТО В ДАННОМ СЛУЧАЕ РАБОАЕТ БЫСТРЕЕ?
         String[] studentLog = new String[jsObj.length()];
         StringBuilder log = new StringBuilder();
         for (int i = 0; i < jsObj.length(); i++) {

@@ -42,13 +42,10 @@ public class task01 {
         logger.addHandler(fh);
         SimpleFormatter sFormat = new SimpleFormatter();
         fh.setFormatter(sFormat);
-        // ЧТО В ДАННОМ СЛУЧАЕ РАБОАЕТ БЫСТРЕЕ?
-        String str = a + " и " + b + " поменялись местами. Индексы " + j + " и " + (j+1) + "\n" +
-                "Массив изменился: " + array + "\n";
-//        StringBuilder str = new StringBuilder();
-//        str.append(a).append(" и ").append(b).append(" поменялись местами.\n");
-//        str.append("Массив изменился: ").append(array).append("\n");
-        logger.info(str);
+        StringBuilder str = new StringBuilder();
+        str.append(a).append(" и ").append(b).append(" поменялись местами.\n");
+        str.append("Массив изменился: ").append(array).append("\n");
+        logger.info(str.toString());
         fh.close();
     }
     public static int[] fillArray(int arraySize) {
