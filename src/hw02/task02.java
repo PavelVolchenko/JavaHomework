@@ -68,10 +68,6 @@ public class task02 {
             toPrint.append("Студент ").append(logg[0])
                     .append(" получил ").append(logg[1])
                     .append(" по предмету ").append(logg[2]).append(".");
-            // ИЛИ ЧЕРЕЗ КОНКАТЕНАЦИЮ БЫСТРЕЕ?
-//            String toPrint = "Студент " + log[0] +
-//                    " получил " + log[1] +
-//                    " по предмету " + log[2] + ".";
             System.out.println(toPrint);
         }
     }
