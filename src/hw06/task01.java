@@ -81,7 +81,7 @@ public class task01 {
 
         if (compilation.size() != 0) {
             System.out.println();
-            System.out.printf("У меня есть для тебя %d подходящих вариантов!\n", compilation.size());
+            System.out.printf("У меня есть для тебя %d подходящих!\n", compilation.size());
             for (var notebook: compilation) {
                 System.out.printf(" - %s\n", notebook);
             }

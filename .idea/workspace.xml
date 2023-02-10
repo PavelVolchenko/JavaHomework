@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f25840fe-ab13-4617-8003-26f9f9ae5cd6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/hw06/README.MD" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="f25840fe-ab13-4617-8003-26f9f9ae5cd6" name="Changes" comment="hw06 complete" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -109,12 +106,24 @@
       <workItem from="1675961016255" duration="63000" />
       <workItem from="1675968831890" duration="1607000" />
       <workItem from="1675981016357" duration="4033000" />
-      <workItem from="1675988530003" duration="3609000" />
+      <workItem from="1675988530003" duration="3932000" />
     </task>
+    <task id="LOCAL-00001" summary="hw06 complete">
+      <created>1675993236911</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1675993236911</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="hw06 complete" />
+    <option name="LAST_COMMIT_MESSAGE" value="hw06 complete" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
